@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import ScsHeader from "./StudioCornerStone/ScsHeader";
+import ScsFooter from './StudioCornerStone/ScsFooter';
 
 class Home extends Component {
   state = {
@@ -9,6 +10,7 @@ class Home extends Component {
 		return (
 		 <div>
 			 <ScsHeader/>
+             <ScsFooter/>
 		 </div>
 	 );
 	}

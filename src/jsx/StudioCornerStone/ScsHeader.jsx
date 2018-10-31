@@ -10,6 +10,7 @@ class ScsHeader extends Component {
     super(props);
     this.state = { highlightedKey: 1 };
   }
+
   assignActiveStatus(selectedKey) {
     this.setState(state => {
       return { highlightedKey: selectedKey };
@@ -64,6 +65,7 @@ class ScsHeader extends Component {
                 Contact Us
               </NavItem>
             </Nav>
+            <Route path="/" exact component={ScsHome} />
             <Route path="/home" component={ScsHome} />
             <Route path="/projects" component={ScsProjects} />
           </span>
