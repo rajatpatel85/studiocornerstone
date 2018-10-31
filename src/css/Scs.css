@@ -39,3 +39,12 @@ ol, ul {
     height:700px;
     margin: auto;
   }
+
+  /**Scs Footer */
+
+  .ScsApp-footer {
+    height:100px;
+    background-color: #ffffff;
+    margin-top: 50px;
+    border-top: 3px groove rgb(255, 92, 80);
+}
