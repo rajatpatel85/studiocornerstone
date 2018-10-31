@@ -1,2 +1,0 @@
-# StudioCornerstone
-StudioCornerstone application
