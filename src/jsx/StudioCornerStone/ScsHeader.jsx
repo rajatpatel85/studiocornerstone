@@ -27,7 +27,8 @@ class ScsHeader extends Component {
     return (
       <div>
         <div className="ScsApp-header">
-          <div className="ScsApp-logo" />
+          <div className="ScsApp-logo" /> 
+            <p className="ScsApp-button"> Walk Through your Dream</p>
         </div>
         <Router>
           <span className="">

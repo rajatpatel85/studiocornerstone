@@ -4,6 +4,13 @@
     background-image: url(../images/background.jpg);
 }
 
+.ScsApp-header {
+    background-image: url(../images/background.jpg);
+    height:140px;
+    background-color: #ffffff;
+    border-bottom: 0px groove rgb(255, 92, 80);
+}
+
 .ScsApp-logo {
     background-image: url(../images/Logo.jpg);
     height: 120px;
@@ -11,12 +18,17 @@
     width: 250px;
 }
 
-.ScsApp-header {
-    background-image: url(../images/background.jpg);
-    height:140px;
-    background-color: #ffffff;
-    border-bottom: 0px groove rgb(255, 92, 80);
+.ScsApp-button {
+    border : 0px solid blue;
+    margin-left : 300px;
+    margin-top: -80px;
+    width: 500px;
+    color : rgb(255, 92, 100);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 300%;
 }
+
 .ScsApp-header-border {
     border: 3px groove rgb(255, 92, 80);
 }
