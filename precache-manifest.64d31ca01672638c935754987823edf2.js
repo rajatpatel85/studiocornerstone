@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/studiocornerstone/static/js/runtime~main.6ad79f66.js"
   },
   {
-    "revision": "2fcbdbde3242a7a86078",
-    "url": "/studiocornerstone/static/js/main.2fcbdbde.chunk.js"
+    "revision": "a59e0dbda0496551bfd0",
+    "url": "/studiocornerstone/static/js/main.a59e0dbd.chunk.js"
   },
   {
-    "revision": "90dfae609367bded28aa",
-    "url": "/studiocornerstone/static/js/1.90dfae60.chunk.js"
+    "revision": "20558bc178198ceea819",
+    "url": "/studiocornerstone/static/js/1.20558bc1.chunk.js"
   },
   {
-    "revision": "2fcbdbde3242a7a86078",
+    "revision": "a59e0dbda0496551bfd0",
     "url": "/studiocornerstone/static/css/main.e857a954.chunk.css"
   },
   {
-    "revision": "82f2279918e23f2c0e287fd344e80f4c",
+    "revision": "c4f9a18402fe8bb5fa3abe4f05df0d9f",
     "url": "/studiocornerstone/index.html"
   }
 ];
