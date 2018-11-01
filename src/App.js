@@ -13,7 +13,7 @@ class App extends Component {
       chrome: () =><Home/>,
       firefox: () => <Home/>,      
       googlebot: () => <div>Hi GoogleBot!</div>,
-      default: (browser) => <div>Hi {browser}!</div>,
+      default: (browser) => <Home/>,
     };
     return (
       <div className="App"> 
