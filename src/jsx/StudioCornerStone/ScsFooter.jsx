@@ -6,8 +6,8 @@ class ScsFooter extends Component {
     return (
       <div>
         <div className="ScsApp-footer">
-        <p>This website is proprietary property of Studio Cornerstone - India - An Interior Design Industry. Copyright @ 2018/2019.</p>    
-        <p>This website is designed and developed by Rajat Ranjan Patel and is not reusable without desired approval.</p>
+        <p>Copyright @ Studio Cornerstone - India - An Interior Design Industry. 2018/2019 </p>    
+        <p>This website is designed and developed by Rajat Ranjan Patel and is not reusable without required approval.</p>
         </div>        
       </div>
     );

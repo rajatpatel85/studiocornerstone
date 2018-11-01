@@ -4,6 +4,7 @@ import { Nav, NavItem } from "react-bootstrap";
 import { BrowserRouter as Router, Link, Route } from "react-router-dom";
 import ScsHome from "./ScsHome";
 import ScsProjects from "./ScsProjects";
+import ScsContact from "./ScsContact";
 
 class ScsHeader extends Component {
   constructor(props) {
@@ -66,8 +67,10 @@ class ScsHeader extends Component {
               </NavItem>
             </Nav>
             <Route path="/" exact component={ScsHome} />
+            <Route path="/studiocornerstone/" exact component={ScsHome} />
             <Route path="/home" component={ScsHome} />
             <Route path="/projects" component={ScsProjects} />
+            <Route path="/contactUs" component={ScsContact} />
           </span>
         </Router>
       </div>
