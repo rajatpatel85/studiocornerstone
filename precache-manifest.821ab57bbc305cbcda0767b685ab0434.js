@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "423b5a4f180c7be27ff97ddf43424d29",
-    "url": "/studiocornerstone/static/media/Logo.423b5a4f.jpg"
+    "revision": "e45ece6ca06912c7c3dfc09905fff74d",
+    "url": "/studiocornerstone/static/media/background.e45ece6c.jpg"
   },
   {
-    "revision": "32363995d5722e3f7787",
+    "revision": "4288c230a0921a7a72e7",
     "url": "/studiocornerstone/static/css/main.0e43554c.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/studiocornerstone/static/js/runtime~main.6ad79f66.js"
   },
   {
-    "revision": "e45ece6ca06912c7c3dfc09905fff74d",
-    "url": "/studiocornerstone/static/media/background.e45ece6c.jpg"
+    "revision": "423b5a4f180c7be27ff97ddf43424d29",
+    "url": "/studiocornerstone/static/media/Logo.423b5a4f.jpg"
   },
   {
-    "revision": "32363995d5722e3f7787",
-    "url": "/studiocornerstone/static/js/main.32363995.chunk.js"
+    "revision": "4288c230a0921a7a72e7",
+    "url": "/studiocornerstone/static/js/main.4288c230.chunk.js"
   },
   {
     "revision": "272aa8d4a9b539582469acd0cd9edc6e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/studiocornerstone/static/media/Gautam_pic3.9bf9840a.jpg"
   },
   {
-    "revision": "41e43d01a7b363a750e878dc24f1dfe8",
+    "revision": "bdc305993e059af0f9ab09882c0ff987",
     "url": "/studiocornerstone/index.html"
   }
 ];
