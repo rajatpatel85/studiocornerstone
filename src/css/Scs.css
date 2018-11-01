@@ -1,6 +1,7 @@
 /* ScsHeader.jsx page*/
 .App {
     text-align: center;
+    background-image: url(../images/background.jpg);
 }
 
 .ScsApp-logo {
@@ -11,6 +12,7 @@
 }
 
 .ScsApp-header {
+    background-image: url(../images/background.jpg);
     height:140px;
     background-color: #ffffff;
     border-bottom: 0px groove rgb(255, 92, 80);
@@ -43,6 +45,7 @@ ol, ul {
   /**Scs Footer */
 
   .ScsApp-footer {
+    background-image: url(../images/background.jpg);
     height:100px;
     background-color: #ffffff;
     margin-top: 50px;
